@@ -29,7 +29,7 @@ Install the project:
 
     pyvenv represent-env
     source represent-env/bin/activate
-    git clone https://github.com/opennorth/represent-canada.git
+    git clone https://github.com/imhangoo/represent-canada.git
     cd represent-canada
     pip install -r requirements.txt
 
