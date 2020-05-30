@@ -6,3 +6,4 @@ settings.py
 /staticfiles
 /data
 /static
+/finder/templates/demo.html
